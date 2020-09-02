@@ -5,3 +5,10 @@ const api = axios.create({
 });
 
 export default api;
+
+/*
+ * IOS com Emulador: localhost
+ * IOS com fisico : IP da máquina
+ * 
+ * 
+ */
